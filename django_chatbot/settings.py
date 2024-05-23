@@ -43,8 +43,8 @@ OPENAI_API_KEY = env('OPENAI_API_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-tehcentr201-djangochatb-47ocbc66ry6.ws-eu114.gitpod.io', 'django-p-4e77f4424911.herokuapp.com']
-CSRF_TRUSTED_ORIGINS = ['https://*.8000-tehcentr201-djangochatb-47ocbc66ry6.ws-eu114.gitpod.io','https://*.127.0.0.1:8000', 'https://*.herokuapp.com', 'https://django-p-4e77f4424911.herokuapp.com', 'https://*.django-p-4e77f4424911.herokuapp.com']
+ALLOWED_HOSTS = ['8000-tehcentr201-djangoproje-uonbk855hqy.ws-eu114.gitpod.io', 'django-p-4e77f4424911.herokuapp.com']
+CSRF_TRUSTED_ORIGINS = ['https://*.8000-tehcentr201-djangoproje-uonbk855hqy.ws-eu114.gitpod.io','https://*.127.0.0.1:8000', 'https://*.herokuapp.com', 'https://django-p-4e77f4424911.herokuapp.com', 'https://*.django-p-4e77f4424911.herokuapp.com']
 
 
 # Application definition
